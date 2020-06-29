@@ -7,7 +7,7 @@ descriptors:
         value: degenerates
         rate_limit:
           requests_per_unit: 1
-          unit: second
+          unit: minute
       - key: class
         value: anonymous
         rate_limit:
